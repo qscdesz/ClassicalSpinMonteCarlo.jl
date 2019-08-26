@@ -1,5 +1,9 @@
 module ClassicalSpinMonteCarlo
 
-greet() = print("Hello World!")
+using StaticArra
+using QuantumLattices
+
+using LinearAlgebra::norm,cross
+
 
 end # module
